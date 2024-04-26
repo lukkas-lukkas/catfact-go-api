@@ -5,7 +5,9 @@ Simple go api for practice the language
 ## Get started
 Start the api
 
-> make run
+```shell
+make run
+```
 
 Make a request
 
